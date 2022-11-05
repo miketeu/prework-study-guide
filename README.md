@@ -8,12 +8,7 @@ The very process of constructing this page has been a great learning tool. Havin
 
 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 
 ## Installation N/A
@@ -23,7 +18,7 @@ Provide a short description explaining the what, why, and how of your project. U
 Each section of the webpage contains notes on the subjects that have been included in the course (HTML, CSS, JavaScript, Git).
 To acess the functionality of the site; open Dev Tools > console, and you will see the JavaScript running. It will not only list the topics learned thus far but will pick a topic for us to explore.
 
-![alt text "Screen shot"](assets/Screenshot 2022-11-04 191309.jpg)
+![alt text "Screen shot"](\assets\Screenshot 2022-11-04 191309.jpg)
 
 ## Credits N/A
 
