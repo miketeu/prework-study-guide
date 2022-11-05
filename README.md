@@ -18,7 +18,7 @@ The very process of constructing this page has been a great learning tool. Havin
 Each section of the webpage contains notes on the subjects that have been included in the course (HTML, CSS, JavaScript, Git).
 To acess the functionality of the site; open Dev Tools > console, and you will see the JavaScript running. It will not only list the topics learned thus far but will pick a topic for us to explore.
 
-![alt text "Screen shot"](\assets\Screenshot 2022-11-04 191309.jpg)
+![alt text "Screen shot"](https://github.com/miketeu/prework-study-guide/blob/3de34b02ed6292dc48b1905fb41d4a958458f808/prework-study-guide/assets/Screenshot%202022-11-04%20191309.jpg)
 
 ## Credits N/A
 
