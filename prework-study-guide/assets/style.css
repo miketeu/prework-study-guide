@@ -1,19 +1,33 @@
+:root {
+    --box-shadow: #dacbcb;
+    --border: rgb(253, 246, 246);
+    --headfoot-background: rgb(103, 103, 227);
+    --headfott-color: white;
+}
+
+
 * {
     margin: 0;
     padding: 0;
 }
 
 header, footer {
-    width:100%;
-    height: 120PX;
-    background-color: blue;
-    color: white;
-
+    width:80%;
+    margin: 2vw auto;
+    background-color: var(--headfoot-background);
+    color: var(--headfott-color);
+    padding: 2vw 0;
+    border-radius: 10px;
 }
 
-h1, h2 {
+h1 {
     text-align: center;
+    font-size: 4vw;
+}
 
+h2 {
+    text-align: center;
+    font-size: 2.7vw;
 }
 
 img {
@@ -22,22 +36,24 @@ img {
     width: 50px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
 }
 
 ul {
 
-    padding-left: 40px;
-    font-size: 20px;
+    padding-left: 2.5vw;
+    font-size: 2vw;
 }
 
 p {
     text-align: center;
-    font-size: 30px;
+    font-size: 2.7vw;
 }
 
 .card {
-    width: 80%;
-    margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    width: 65%;
+    margin: 3vw auto;
+    border: 5px solid var(--border);
+    box-shadow: 0 4vw 3vw 0 var(--box-shadow);
+    border-radius: 10px;
 }
