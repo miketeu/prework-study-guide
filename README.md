@@ -8,11 +8,6 @@ The very process of constructing this page has been a great learning tool. Havin
 
 
 
-
-
-
-## Installation N/A
-
 ## Usage
 
 Each section of the webpage contains notes on the subjects that have been included in the course (HTML, CSS, JavaScript, Git).
@@ -20,18 +15,16 @@ To acess the functionality of the site; open Dev Tools > console, and you will s
 
 ![alt text "Screen shot"](prework-study-guide/assets/Screenshot 2022-11-08 201432.jpg)
 
-## Credits N/A
-
 
 ## License
 
 MIT License 
 [MIT Licence](LICENCE)
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+ This lets other developers know what they can and cannot do with your project. 
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
 
 ## Badges
 
